@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Docs partial mdformat improvements (#7378)
