@@ -1,1 +1,1 @@
-Add settings runs_dir == datasets_dir warning (#8653)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
