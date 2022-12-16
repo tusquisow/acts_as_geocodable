@@ -1,1 +1,1 @@
-Add YouTube iframe loading=lazy (#8001)
+Compare plt.get_backend() in lowercase (#8409)
