@@ -1,1 +1,1 @@
-ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
