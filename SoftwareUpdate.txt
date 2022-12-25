@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
