@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Segment TensorRT batch=3 fix (#7952)
