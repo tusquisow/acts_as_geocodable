@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Retry once for Docker CI failures (#8164)
