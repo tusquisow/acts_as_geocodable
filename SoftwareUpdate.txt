@@ -1,1 +1,1 @@
-ultralytics 8.0.234 VOC exist_ok=True unzip fix (#7295)
+Explorer with LanceDB, Actions and Docs updates (#7487)
