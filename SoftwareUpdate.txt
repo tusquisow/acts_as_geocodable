@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
