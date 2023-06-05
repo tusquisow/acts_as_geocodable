@@ -1,1 +1,1 @@
-Added check of parameter type before setting required_grad=True for frozen layers (#8318)
+Fix device counting method to account for double-digit device IDs (#8502)
