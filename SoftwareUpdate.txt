@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Merge pull request #22 from SkalskiP/patch-1
