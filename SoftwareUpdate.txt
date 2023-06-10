@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Add quantization support to TensorFlow.js converter (#7008)
