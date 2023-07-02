@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Add OBB benchmarks to CI (#7777)
