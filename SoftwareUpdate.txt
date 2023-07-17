@@ -1,1 +1,1 @@
-OBB Docs updates (#7512)
+Expand Model method type hinting (#8279)
