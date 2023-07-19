@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+fix export tensorrt with dynamic size
