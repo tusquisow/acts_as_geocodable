@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Expand Model method type hinting (#8279)
