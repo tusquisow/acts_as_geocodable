@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Add visuals in guides/distance-calculation.md (#7876)
