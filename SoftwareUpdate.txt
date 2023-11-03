@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Update CITATION.cff with cffinit corrections (#8658)
