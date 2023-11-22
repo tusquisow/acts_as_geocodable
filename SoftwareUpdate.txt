@@ -1,1 +1,1 @@
-Add Ultralytics HUB Cloud Training banner to Docs (#8656)
+Fix TypeError in check_cfg() (#9245)
