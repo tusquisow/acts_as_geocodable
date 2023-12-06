@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Add type hinting to explorer.py (#7388)
