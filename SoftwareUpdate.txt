@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
