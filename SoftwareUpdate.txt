@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Improve Coral Edge TPU guide (#8160)
