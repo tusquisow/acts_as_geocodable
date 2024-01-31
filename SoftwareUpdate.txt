@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Fix PIL show() and save() (#8202)
