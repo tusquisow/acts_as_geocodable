@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
