@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
