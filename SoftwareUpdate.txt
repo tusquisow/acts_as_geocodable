@@ -1,1 +1,1 @@
-Replace onnx2tf usage from CLI to Python (#8429)
+OpenVino 2024.0.0 (#8726)
