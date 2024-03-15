@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
