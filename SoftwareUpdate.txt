@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Fix OpenVINO missing batch-size bug (#9264)
