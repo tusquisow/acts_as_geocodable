@@ -1,1 +1,1 @@
-ultralytics 8.1.2 scope HUB-SDK imports (#7596)
+ultralytics 8.1.29 improved disk space checking on correct path (#8977)
