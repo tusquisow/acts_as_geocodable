@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
