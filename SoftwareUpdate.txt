@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
