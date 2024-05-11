@@ -1,1 +1,1 @@
-Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
+Explorer with LanceDB, Actions and Docs updates (#7487)
