@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Explorer Cleanup (#7364)
