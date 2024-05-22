@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+Improve Coral Edge TPU guide (#8160)
