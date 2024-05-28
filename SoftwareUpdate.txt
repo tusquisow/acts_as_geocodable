@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Fix PIL show() and save() (#8202)
