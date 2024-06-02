@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+ultralytics 8.0.233 improve Classify train augmentations (#4546)
