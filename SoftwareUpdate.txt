@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Add missing Explorer docs reference pages (#7455)
